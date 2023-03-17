@@ -1,2 +1,2 @@
 # JS-Infinite-Scroll
-Showcase Infinite Scroll using vanilla Javascript
+Fetched photos from the Unsplash API and created a simple photo gallery application with an infinite scroll feature loading photos as the user scrolls down. 
